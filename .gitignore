@@ -1,0 +1,5 @@
+temp.sh
+.vscode
+__pycache__
+cli.py
+setup.py
